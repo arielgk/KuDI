@@ -1,4 +1,4 @@
-namespace RWS.State.Entities
+namespace Game.State.Entities
 {
     public class State
     {

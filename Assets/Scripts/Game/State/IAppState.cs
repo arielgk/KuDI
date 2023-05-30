@@ -1,4 +1,4 @@
-namespace RWS.State
+namespace Game.State
 {
     public interface IAppState
     {

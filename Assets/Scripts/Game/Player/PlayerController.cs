@@ -1,10 +1,10 @@
 using System;
 using Example;
 using KuDI;
-using RWS.State;
+using Game.State;
 using UnityEngine;
 
-namespace RWS.Player
+namespace Game.Player
 {
     public class PlayerController : MonoBehaviour
     {

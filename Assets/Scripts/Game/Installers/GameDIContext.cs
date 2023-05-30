@@ -1,8 +1,8 @@
 using KuDI;
-using RWS.State;
+using Game.State;
 using UnityEngine;
 
-namespace RWS.Installers
+namespace Game.Installers
 {
     public class GameDIContext : DependencyInjectionContext
     {

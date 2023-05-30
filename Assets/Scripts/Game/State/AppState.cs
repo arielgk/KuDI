@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace RWS.State
+namespace Game.State
 {
     public class AppState : IAppState
     {
